@@ -4,5 +4,6 @@ public class hello {
     System.out.println("hello");
 
     int x = 50;
+    System.out.println("newfunc branch");
   }
 }
